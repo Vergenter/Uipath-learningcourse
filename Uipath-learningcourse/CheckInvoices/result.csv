@@ -1,0 +1,27 @@
+﻿ClientName,IsBankrupt,InvoiceID,InvoiceValue
+Unit&Products Inc.,TRUE,1,100
+Unit&Products Inc.,TRUE,2,50
+Unit&Products Inc.,TRUE,3,300
+Unit&Products Inc.,TRUE,4,340
+Unit&Products Inc.,TRUE,5,105
+Unit&Products Inc.,TRUE,6,200
+Unit&Products Inc.,TRUE,7,210
+Travels Print,TRUE,8,200
+Travels Print,TRUE,9,100
+Travels Print,TRUE,10,150
+Travels Print,TRUE,11,120
+Teamatix,TRUE,12,130
+Teamatix,TRUE,13,220
+Epiloo,TRUE,28,250
+Epiloo,TRUE,29,100
+Epiloo,TRUE,30,140
+Epiloo,TRUE,31,420
+Epiloo,TRUE,32,450
+Epiloo,TRUE,33,120
+Epiloo,TRUE,34,200
+Epiloo,TRUE,35,500
+Agitude,TRUE,90,250
+Agitude,TRUE,91,400
+Agitude,TRUE,92,100
+Cryptomba,TRUE,98,230
+Cryptomba,TRUE,99,500
