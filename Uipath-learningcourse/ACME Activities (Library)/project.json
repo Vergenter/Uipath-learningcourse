@@ -1,0 +1,40 @@
+{
+  "name": "AcmeLibrary",
+  "description": "Blank Library",
+  "main": "Login.xaml",
+  "dependencies": {
+    "UiPath.Credentials.Activities": "1.1.6479.13204",
+    "UiPath.System.Activities": "19.4.0",
+    "UiPath.UIAutomation.Activities": "19.4.1"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.7.0.0",
+  "projectVersion": "1.0.12",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Library",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": [
+        "Navigate to home page.xaml",
+        "WorkItems/Navigate to work items.xaml",
+        "WorkItems/Navigating to invoices.xaml",
+        "WorkItems/Navigating to search invoice by Vendor Tax ID.xaml"
+      ]
+    },
+    "fileInfoCollection": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
