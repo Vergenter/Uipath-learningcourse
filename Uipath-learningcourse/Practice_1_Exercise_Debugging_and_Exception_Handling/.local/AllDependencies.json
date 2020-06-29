@@ -917,15 +917,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\calin.grigorescu\\.nuget\\packages\\": {}
+    "C:\\Users\\Vergenter\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Practice_1_Exercise_Debugging_and_Exception_Handling",
       "projectName": "Practice_1_Exercise_Debugging_and_Exception_Handling",
-      "projectPath": "C:\\Users\\calin.grigorescu\\Documents\\RPA Dev\\Prototype\\Practice_1_Exercise_Debugging_and_Exception_Handling\\.local",
-      "packagesPath": "C:\\Users\\calin.grigorescu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\calin.grigorescu\\Documents\\RPA Dev\\Prototype\\Practice_1_Exercise_Debugging_and_Exception_Handling\\.local"
+      "projectPath": "C:\\Users\\Vergenter\\Documents\\UiPath\\Uipath-learningcourse\\Practice_1_Exercise_Debugging_and_Exception_Handling\\.local",
+      "packagesPath": "C:\\Users\\Vergenter\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vergenter\\Documents\\UiPath\\Uipath-learningcourse\\Practice_1_Exercise_Debugging_and_Exception_Handling\\.local"
     },
     "frameworks": {
       "net461": {

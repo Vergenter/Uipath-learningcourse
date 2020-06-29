@@ -1723,15 +1723,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\^\\.nuget\\packages\\": {}
+    "C:\\Users\\Vergenter\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "dataIntoNotepad",
       "projectName": "dataIntoNotepad",
-      "projectPath": "C:\\Users\\^\\Documents\\UiPath\\Uipath-learningcourse\\dataIntoNotepad\\.local",
-      "packagesPath": "C:\\Users\\^\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\^\\Documents\\UiPath\\Uipath-learningcourse\\dataIntoNotepad\\.local"
+      "projectPath": "C:\\Users\\Vergenter\\Documents\\UiPath\\Uipath-learningcourse\\dataIntoNotepad\\.local",
+      "packagesPath": "C:\\Users\\Vergenter\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vergenter\\Documents\\UiPath\\Uipath-learningcourse\\dataIntoNotepad\\.local"
     },
     "frameworks": {
       "net461": {

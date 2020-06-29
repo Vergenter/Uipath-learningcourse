@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.6.1": {
-      "AcmeLibrary/1.0.12": {
+      "AcmeLibrary/1.0.11": {
         "type": "package",
         "dependencies": {
           "UiPath.Credentials.Activities": "1.1.6479.13204",
@@ -918,19 +918,18 @@
     }
   },
   "libraries": {
-    "AcmeLibrary/1.0.12": {
-      "sha512": "vOJTB1D1/wRoR+/0fis/GVrBy/CWn+Ha/IaUIfXBNvst7gK/cEdaQljeHgLByxekdmVLbQExMPUX76vEMUbCRA==",
+    "AcmeLibrary/1.0.11": {
+      "sha512": "C7JVEBUy+b8WXqp++sakT+5Wz+GNWEln1a/81PHSglo0+UEJyrw82FASqLiJaTU4y+87ecmG4ISX3P67yzEhoA==",
       "type": "package",
-      "path": "acmelibrary/1.0.12",
+      "path": "acmelibrary/1.0.11",
       "files": [
         ".nupkg.metadata",
-        "acmelibrary.1.0.12.nupkg.sha512",
+        "acmelibrary.1.0.11.nupkg.sha512",
         "acmelibrary.nuspec",
         "lib/net45/AcmeLibrary.1.0.9.nupkg",
         "lib/net45/AcmeLibrary.dll",
         "lib/net45/project.json",
-        "lib/net45/releases/AcmeLibrary.1.0.10.nupkg",
-        "lib/net45/releases/AcmeLibrary.1.0.11.nupkg"
+        "lib/net45/releases/AcmeLibrary.1.0.10.nupkg"
       ]
     },
     "AvalonEdit/5.0.3": {
@@ -1791,7 +1790,7 @@
   "projectFileDependencyGroups": {
     "": [],
     ".NETFramework,Version=v4.6.1": [
-      "AcmeLibrary >= 1.0.12 <= 1.0.12",
+      "AcmeLibrary >= 1.0.11 <= 1.0.11",
       "UiPath.Credentials.Activities >= 1.1.6479.13204 <= 1.1.6479.13204",
       "UiPath.Excel.Activities >= 2.8.5 <= 2.8.5",
       "UiPath.Mail.Activities >= 1.8.5 <= 1.8.5",
@@ -1816,7 +1815,7 @@
           "AcmeLibrary": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[1.0.12, 1.0.12]"
+            "version": "[1.0.11, 1.0.11]"
           },
           "UiPath.Credentials.Activities": {
             "include": "Runtime",

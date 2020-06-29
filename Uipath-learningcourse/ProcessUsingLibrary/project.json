@@ -3,7 +3,7 @@
   "description": ". Create a workflow that lets the user choose between downloading all work items, downloading all invoices, or downloading only the invoices that belong to a certain tax ID inputted by the use",
   "main": "Main.xaml",
   "dependencies": {
-    "AcmeLibrary": "[1.0.12]",
+    "AcmeLibrary": "[1.0.11]",
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.8.5]",
     "UiPath.Mail.Activities": "[1.8.5]",
